@@ -1,8 +1,3 @@
-#include<stdio.h>
-
-int main()
-
-{
-    printf("Hello world!");
-
-}
+Ali Hossain Ringku
+Dept. of Computer Science & Engineering.
+University of Chittagong.
